@@ -1,7 +1,7 @@
 <html>
 <head>
 <title>
-# LiteSpeed - Apache - Nginx
+Bypass | Upload
 </title>
 </head>
 <body></font><form method="POST">
